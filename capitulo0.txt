@@ -1,2 +1,6 @@
 Este es el primer capitulo del famoso libro que planeo escribir donde les contare las historias mas fascinantes
 que puedes encontrar en el Peru.
+
+
+Este capitulo comienza con zero debido a que los arrays o Lists en los lenguajes de programacion tienen zero como primer indice.
+es decir los indices se empiezan contando de zero.

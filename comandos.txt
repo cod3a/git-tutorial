@@ -1,2 +1,22 @@
 # inicia un repositorio de trabajo
 git init   
+
+# revisamos el estatus de nuestro repositorio  local
+git status
+
+# agregamos archivos al stage
+git add --all 
+git add *
+
+## uno de los primeros pasos:
+git config --global user.email "cod3a@cod3a.com"
+git config --global user.name "Mr. Cod3a"
+
+# logs:
+git log 
+
+# cambiar a un commit previo indicando el id 
+git checkout <id del commit previo>
+
+# retornar a master branch 
+git checkout master 
