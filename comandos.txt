@@ -1,0 +1,2 @@
+# inicia un repositorio de trabajo
+git init   
