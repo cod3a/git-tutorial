@@ -1,0 +1,10 @@
+today: repositorios remotos => github, gitlab, gitbucket, etc.
+============================
+
+git pull origin master
+git push  origin master
+git remote add origin 
+
+
+pull => jala (cambios)
+push => empuja (o enviar cambios)

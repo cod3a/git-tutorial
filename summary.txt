@@ -1,0 +1,12 @@
+git init 
+git add --all 
+git commit -m "commit message"
+
+git log
+git status 
+
+git branch 
+git checkout <commit id or branch>
+git branch -b <branch name>
+
+git merge
