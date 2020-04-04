@@ -1,0 +1,5 @@
+# especial file to ignore some files.
+node_modules
+
+*.log
+*.lock
