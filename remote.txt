@@ -9,5 +9,5 @@ git remote add origin
 pull => jala (cambios)
 push => empuja (o enviar cambios)
 ------------------------------------------
-avoid asking for credential when push/pull:
+avoid asking for credential when push or pull:
 git config --global credential.helper store
